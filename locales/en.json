@@ -1,0 +1,288 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Financial Consulting Excellence for Your Business",
+    "subheadline": "We turn financial visions into reality. Proven expertise in business planning, investment recovery, and financial strategy for ambitious companies.",
+    "cta": "Book a Consultation",
+    "stats": {
+      "clients": "50+ Clients",
+      "managed": "€10M+ Managed",
+      "success": "95% Success Rate"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive financial solutions for every stage of your business",
+    "items": [
+      {
+        "title": "Business Plans",
+        "description": "Detailed and compelling business plans that attract investors and guide the growth of your company."
+      },
+      {
+        "title": "Investment Recovery / ROI",
+        "description": "Proven strategies to maximize investment returns and recover underperforming assets."
+      },
+      {
+        "title": "Budgeting & Forecasting",
+        "description": "Precise financial planning with realistic budgets and forecasts that support strategic decisions."
+      },
+      {
+        "title": "Financial Reporting",
+        "description": "Clear, compliant, and actionable financial reports that provide a complete picture of your business health."
+      },
+      {
+        "title": "KPI Development",
+        "description": "We identify and implement the right key performance indicators aligned with your business objectives."
+      },
+      {
+        "title": "Strategic Consulting",
+        "description": "High-level strategic advice for complex business decisions and long-term planning."
+      }
+    ]
+  },
+  "about": {
+    "title": "About FinTech Vision Consulting",
+    "subtitle": "Financial experts dedicated to your success",
+    "description": "With over a decade of experience in financial consulting, FinTech Vision Consulting has helped dozens of companies achieve their financial goals. We combine technical expertise with a deep understanding of local and international markets to deliver tailored solutions.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To empower companies with the financial tools and strategies needed to thrive in an ever-changing business environment."
+    },
+    "values": [
+      {
+        "title": "Integrity",
+        "description": "Transparency and honesty in every relationship with our clients."
+      },
+      {
+        "title": "Excellence",
+        "description": "High standards of quality across all our services and deliverables."
+      },
+      {
+        "title": "Innovation",
+        "description": "Modern financial solutions adapted to contemporary business challenges."
+      },
+      {
+        "title": "Partnership",
+        "description": "We build long-term relationships based on trust and tangible results."
+      }
+    ],
+    "team": {
+      "title": "Our Team",
+      "members": [
+        {
+          "name": "Alexandru Ionescu",
+          "role": "CEO & Founder",
+          "bio": "Over 15 years of experience in financial consulting and international business strategy."
+        },
+        {
+          "name": "Maria Constantin",
+          "role": "Chief Financial Officer",
+          "bio": "CFA-certified expert specializing in financial structuring, M&A, and tax optimization."
+        },
+        {
+          "name": "Radu Popescu",
+          "role": "Director of Strategy",
+          "bio": "Harvard MBA, expert in digital transformation and strategic planning for mid-market companies."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "Our Story",
+      "items": [
+        {
+          "year": "2012",
+          "title": "Company Founded",
+          "description": "FinTech Vision Consulting is established with a clear mission: to democratize access to quality financial consulting."
+        },
+        {
+          "year": "2015",
+          "title": "Regional Expansion",
+          "description": "We expand our services throughout the CEE region, helping companies access new European markets."
+        },
+        {
+          "year": "2018",
+          "title": "€10M+ Portfolio",
+          "description": "We reach the €10 million mark in managed assets, confirming our market expertise."
+        },
+        {
+          "year": "2023",
+          "title": "Digital Innovation",
+          "description": "We launch our digital consulting platform, combining human expertise with advanced technology."
+        }
+      ]
+    }
+  },
+  "portfolio": {
+    "title": "Case Studies",
+    "subtitle": "Real results for real clients",
+    "items": [
+      {
+        "title": "Tech Startup Funding",
+        "description": "We assisted a technology startup in structuring a compelling business plan and preparing for their Series A funding round.",
+        "result": "€2M Series A secured"
+      },
+      {
+        "title": "Retail Chain Restructuring",
+        "description": "We analyzed and optimized the cost structure for a 12-location retail chain, implementing efficient financial processes.",
+        "result": "40% reduction in operating costs"
+      },
+      {
+        "title": "Manufacturing ROI",
+        "description": "We developed an investment strategy for a manufacturing company, identifying growth opportunities and capital optimization.",
+        "result": "3x return in 18 months"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "items": [
+      {
+        "quote": "FinTech Vision Consulting completely transformed our financial approach. The business plan we developed together helped us secure the funding we needed to grow.",
+        "name": "Andrei Munteanu",
+        "role": "CEO",
+        "company": "TechForward SRL"
+      },
+      {
+        "quote": "Exemplary professionalism and concrete results. The team quickly understood our challenges and offered pragmatic solutions that delivered significant savings.",
+        "name": "Elena Dragomir",
+        "role": "CFO",
+        "company": "RetailPlus Group"
+      },
+      {
+        "quote": "I highly recommend their strategic consulting services. They have clear market insight and guided us toward investment decisions with excellent returns.",
+        "name": "Bogdan Stoian",
+        "role": "Managing Partner",
+        "company": "Stoian Industrial"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are ready to help you achieve your financial goals",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Your message was sent successfully! We will be in touch shortly.",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "email@company.com",
+      "companyPlaceholder": "Company name",
+      "messagePlaceholder": "Describe the financial challenges you're facing..."
+    },
+    "booking": {
+      "title": "Schedule a Free Consultation",
+      "subtitle": "30 minutes with a financial expert dedicated to your business",
+      "placeholder": "Calendly Widget — Integration available"
+    },
+    "info": {
+      "email": "contact@fintechvision.ro",
+      "phone": "+40 (0) 21 123 4567",
+      "address": "42 Victoriei Street, Sector 1, Bucharest, Romania"
+    }
+  },
+  "footer": {
+    "tagline": "Financial consulting excellence for your business.",
+    "copyright": "© 2024 FinTech Vision Consulting. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    }
+  },
+  "servicesPage": {
+    "title": "Our Complete Services",
+    "subtitle": "Tailored financial solutions for every need",
+    "items": [
+      {
+        "title": "Business Plans",
+        "description1": "A solid business plan is the foundation of every successful company. At FinTech Vision Consulting, we develop comprehensive and compelling business plans that not only attract investors but serve as a strategic roadmap for the growth and development of your business.",
+        "description2": "We approach every business plan with a detailed analysis of the market, competition, and growth opportunities. We integrate realistic financial projections with coherent marketing and operational strategies.",
+        "description3": "Whether you are starting out or expanding an existing business, our business plan gives you clarity, direction, and credibility in front of potential partners and financiers.",
+        "included": [
+          "In-depth market and competition analysis",
+          "3–5 year financial projections",
+          "Marketing and sales strategy",
+          "Detailed operational plan",
+          "Risk analysis and contingency plans",
+          "Executive presentation for investors"
+        ]
+      },
+      {
+        "title": "Investment Recovery / ROI",
+        "description1": "Maximizing investment returns is the essence of financial success. Our team of experts analyzes your company's investment portfolio and identifies opportunities for optimization and value recovery.",
+        "description2": "We use advanced financial analysis methodologies to assess the current performance of investments and propose restructuring or exit strategies that maximize shareholder value.",
+        "description3": "Our experience across multiple industries allows us to quickly identify where value is being lost and how it can be recovered or redirected toward more profitable opportunities.",
+        "included": [
+          "Full investment portfolio audit",
+          "Performance analysis and inefficiency identification",
+          "Investment restructuring strategies",
+          "Exit plans and asset liquidation",
+          "Capital structure optimization",
+          "Continuous reporting and monitoring"
+        ]
+      },
+      {
+        "title": "Budgeting & Forecasting",
+        "description1": "Rigorous financial planning is the key to stability and sustainable growth. We develop budgeting and financial forecasting systems that turn uncertainty into a competitive advantage.",
+        "description2": "Our process combines historical data analysis with advanced predictive models, giving you a clear view of your company's financial trajectory. We adapt budgets to market dynamics and specific strategic objectives.",
+        "description3": "We implement budgeting processes that engage all departments and ensure financial resources are aligned with the organization's strategic priorities.",
+        "included": [
+          "Annual budget and quarterly planning",
+          "Rolling financial forecast models",
+          "Budget vs. actual variance analysis",
+          "Financial scenarios (optimistic, realistic, pessimistic)",
+          "Departmental budgets and consolidation",
+          "Real-time monitoring dashboards"
+        ]
+      },
+      {
+        "title": "Financial Reporting",
+        "description1": "Clear and accurate financial reports are the essential tool for informed decision-making. We offer comprehensive financial reporting services in accordance with international (IFRS, GAAP) and local standards.",
+        "description2": "We transform raw financial data into actionable reports that highlight key trends, risks, and opportunities. Our presentations are adapted for different audiences: board, management, investors, or regulatory authorities.",
+        "description3": "We ensure full compliance with applicable legal requirements and accounting standards, reducing risk and increasing your company's credibility.",
+        "included": [
+          "Financial statements per IFRS/GAAP",
+          "Monthly/quarterly management reports",
+          "Financial consolidation for groups",
+          "Key financial indicator analysis",
+          "Reports for investors and stakeholders",
+          "External audit preparation"
+        ]
+      },
+      {
+        "title": "KPI Development",
+        "description1": "Well-defined key performance indicators are the backbone of a results-oriented organization. We help companies identify, define, and implement the right KPI systems for their industry and objectives.",
+        "description2": "Not every metric is a relevant KPI. Our process ensures the selected indicators truly represent business success and are directly connected to strategic objectives.",
+        "description3": "We implement monitoring and reporting systems that make KPIs visible and actionable for all stakeholders, from management to operational teams.",
+        "included": [
+          "Existing KPI audit and evaluation",
+          "Strategic alignment workshop",
+          "Definition of financial and operational KPIs",
+          "Data collection and reporting system",
+          "Interactive management dashboards",
+          "Internal team training"
+        ]
+      },
+      {
+        "title": "Strategic Consulting",
+        "description1": "Strategic business decisions have long-term consequences. Our team of senior consultants brings valuable external perspective and proven experience navigating complex business challenges.",
+        "description2": "From expanding to new markets to mergers and acquisitions, from digital transformation to organizational restructuring, we offer strategic advice based on rigorous analysis and deep knowledge of the competitive landscape.",
+        "description3": "A strategic partnership with us means access to a dedicated team that understands your business and supports you in making your most important decisions.",
+        "included": [
+          "Strategic analysis of competitive position",
+          "3–5 year strategic planning",
+          "M&A and partnership opportunity evaluation",
+          "Financial and strategic due diligence",
+          "Market entry strategies",
+          "Board and executive management advisory"
+        ]
+      }
+    ]
+  }
+}

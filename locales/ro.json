@@ -1,0 +1,288 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "about": "Despre Noi",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Consultanță Financiară de Excelență pentru Afacerea Ta",
+    "subheadline": "Transformăm viziunile financiare în realitate. Expertiză dovedită în planificarea afacerilor, recuperarea investițiilor și strategie financiară pentru companii ambițioase.",
+    "cta": "Programează o Consultație",
+    "stats": {
+      "clients": "50+ Clienți",
+      "managed": "€10M+ Gestionați",
+      "success": "95% Rată de Succes"
+    }
+  },
+  "services": {
+    "title": "Serviciile Noastre",
+    "subtitle": "Soluții financiare complete pentru fiecare etapă a afacerii tale",
+    "items": [
+      {
+        "title": "Planuri de Afaceri",
+        "description": "Planuri de afaceri detaliate și convingătoare care atrag investitori și ghidează creșterea companiei tale."
+      },
+      {
+        "title": "Recuperare Investiții / ROI",
+        "description": "Strategii dovedite pentru maximizarea randamentului investițiilor și recuperarea activelor subutilizate."
+      },
+      {
+        "title": "Bugetare & Prognoze",
+        "description": "Planificare financiară precisă cu bugete realiste și prognoze care susțin deciziile strategice."
+      },
+      {
+        "title": "Raportare Financiară",
+        "description": "Rapoarte financiare clare, conforme și acționabile care oferă o imagine completă a sănătății afacerii tale."
+      },
+      {
+        "title": "Dezvoltare KPI",
+        "description": "Identificăm și implementăm indicatorii cheie de performanță potriviți pentru obiectivele tale de business."
+      },
+      {
+        "title": "Consultanță Strategică",
+        "description": "Consiliere strategică de nivel înalt pentru decizii de afaceri complexe și planificare pe termen lung."
+      }
+    ]
+  },
+  "about": {
+    "title": "Despre FinTech Vision Consulting",
+    "subtitle": "Experți financiari dedicați succesului tău",
+    "description": "Cu peste un deceniu de experiență în consultanță financiară, FinTech Vision Consulting a ajutat zeci de companii să atingă obiectivele lor financiare. Combinăm expertiza tehnică cu o înțelegere profundă a pieței locale și internaționale pentru a oferi soluții personalizate.",
+    "mission": {
+      "title": "Misiunea Noastră",
+      "text": "Să împuternicim companiile cu instrumentele financiare și strategiile necesare pentru a prospera într-un mediu de afaceri în continuă schimbare."
+    },
+    "values": [
+      {
+        "title": "Integritate",
+        "description": "Transparență și onestitate în fiecare relație cu clienții noștri."
+      },
+      {
+        "title": "Excelență",
+        "description": "Standarde înalte de calitate în toate serviciile și livrabilele noastre."
+      },
+      {
+        "title": "Inovație",
+        "description": "Soluții financiare moderne adaptate provocărilor contemporane de business."
+      },
+      {
+        "title": "Parteneriat",
+        "description": "Construim relații pe termen lung bazate pe încredere și rezultate concrete."
+      }
+    ],
+    "team": {
+      "title": "Echipa Noastră",
+      "members": [
+        {
+          "name": "Alexandru Ionescu",
+          "role": "CEO & Fondator",
+          "bio": "Peste 15 ani de experiență în consultanță financiară și strategie de business la nivel internațional."
+        },
+        {
+          "name": "Maria Constantin",
+          "role": "Director Financiar",
+          "bio": "Expert CFA cu specializare în structurare financiară, M&A și optimizare fiscală."
+        },
+        {
+          "name": "Radu Popescu",
+          "role": "Director Strategie",
+          "bio": "MBA Harvard, expert în transformare digitală și planificare strategică pentru companii mid-market."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "Povestea Noastră",
+      "items": [
+        {
+          "year": "2012",
+          "title": "Fondarea Companiei",
+          "description": "FinTech Vision Consulting ia ființă cu o misiune clară: să democratizeze accesul la consultanță financiară de calitate."
+        },
+        {
+          "year": "2015",
+          "title": "Extindere Regională",
+          "description": "Extindem serviciile în toată regiunea CEE, ajutând companiile să acceseze piețe europene noi."
+        },
+        {
+          "year": "2018",
+          "title": "Portofoliu €10M+",
+          "description": "Atingem pragul de €10 milioane în active gestionate, confirmând expertiza noastră în piață."
+        },
+        {
+          "year": "2023",
+          "title": "Inovație Digitală",
+          "description": "Lansăm platforma digitală de consultanță, combinând expertiza umană cu tehnologia avansată."
+        }
+      ]
+    }
+  },
+  "portfolio": {
+    "title": "Studii de Caz",
+    "subtitle": "Rezultate reale pentru clienți reali",
+    "items": [
+      {
+        "title": "Finanțare Startup Tech",
+        "description": "Am asistat un startup din domeniul tehnologiei în structurarea unui business plan convingător și în pregătirea pentru runda de finanțare Serie A.",
+        "result": "€2M finanțare Serie A asigurată"
+      },
+      {
+        "title": "Restructurare Lanț Retail",
+        "description": "Am analizat și optimizat structura de costuri pentru un lanț retail cu 12 locații, implementând procese financiare eficiente.",
+        "result": "40% reducere costuri operaționale"
+      },
+      {
+        "title": "ROI Industrie Prelucrătoare",
+        "description": "Am dezvoltat o strategie de investiții pentru o companie manufacturieră, identificând oportunități de creștere și optimizare a capitalului.",
+        "result": "3x randament în 18 luni"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Ce Spun Clienții Noștri",
+    "items": [
+      {
+        "quote": "FinTech Vision Consulting ne-a transformat complet abordarea financiară. Planul de afaceri dezvoltat împreună ne-a ajutat să obținem finanțarea de care aveam nevoie pentru a crește.",
+        "name": "Andrei Munteanu",
+        "role": "CEO",
+        "company": "TechForward SRL"
+      },
+      {
+        "quote": "Profesionalism exemplar și rezultate concrete. Echipa a înțeles rapid provocările noastre și a oferit soluții pragmatice care au adus economii semnificative.",
+        "name": "Elena Dragomir",
+        "role": "Director Financiar",
+        "company": "RetailPlus Group"
+      },
+      {
+        "quote": "Recomand cu căldură serviciile de consultanță strategică. Au o perspectivă clară asupra pieței și ne-au ghidat spre decizii de investiții cu randament excelent.",
+        "name": "Bogdan Stoian",
+        "role": "Managing Partner",
+        "company": "Stoian Industrial"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactează-ne",
+    "subtitle": "Suntem gata să te ajutăm să îți atingi obiectivele financiare",
+    "form": {
+      "name": "Nume Complet",
+      "email": "Adresă Email",
+      "company": "Companie",
+      "message": "Mesajul Tău",
+      "submit": "Trimite Mesajul",
+      "success": "Mesajul tău a fost trimis cu succes! Te vom contacta în curând.",
+      "namePlaceholder": "Numele tău",
+      "emailPlaceholder": "email@companie.ro",
+      "companyPlaceholder": "Numele companiei",
+      "messagePlaceholder": "Descrie provocările financiare cu care te confrunți..."
+    },
+    "booking": {
+      "title": "Programează o Consultație Gratuită",
+      "subtitle": "30 de minute cu un expert financiar dedicat afacerii tale",
+      "placeholder": "Widget Calendly - Integrare disponibilă"
+    },
+    "info": {
+      "email": "contact@fintechvision.ro",
+      "phone": "+40 (0) 21 123 4567",
+      "address": "Strada Victoriei 42, Sector 1, București, România"
+    }
+  },
+  "footer": {
+    "tagline": "Consultanță financiară de excelență pentru afacerea ta.",
+    "copyright": "© 2024 FinTech Vision Consulting. Toate drepturile rezervate.",
+    "links": {
+      "privacy": "Politica de Confidențialitate",
+      "terms": "Termeni și Condiții"
+    }
+  },
+  "servicesPage": {
+    "title": "Serviciile Noastre Complete",
+    "subtitle": "Soluții financiare personalizate pentru fiecare nevoie",
+    "items": [
+      {
+        "title": "Planuri de Afaceri",
+        "description1": "Un plan de afaceri solid este fundația oricărei companii de succes. La FinTech Vision Consulting, dezvoltăm planuri de afaceri complete și convingătoare care nu doar atrag investitori, ci servesc drept hartă strategică pentru creșterea și dezvoltarea afacerii tale.",
+        "description2": "Abordăm fiecare plan de afaceri cu o analiză detaliată a pieței, a competiției și a oportunităților de creștere. Integrăm proiecții financiare realiste cu strategii de marketing și operaționale coerente.",
+        "description3": "Fie că ești la început de drum sau îți extinzi afacerea existentă, planul nostru de afaceri îți oferă claritate, direcție și credibilitate în fața potențialilor parteneri și finanțatori.",
+        "included": [
+          "Analiză de piață și competiție aprofundată",
+          "Proiecții financiare pe 3-5 ani",
+          "Strategie de marketing și vânzări",
+          "Plan operațional detaliat",
+          "Analiza riscurilor și planuri de contingență",
+          "Prezentare executivă pentru investitori"
+        ]
+      },
+      {
+        "title": "Recuperare Investiții / ROI",
+        "description1": "Maximizarea randamentului investițiilor este esența succesului financiar. Echipa noastră de experți analizează portofoliul de investiții al companiei tale și identifică oportunități de optimizare și recuperare a valorii.",
+        "description2": "Folosim metodologii avansate de analiză financiară pentru a evalua performanța actuală a investițiilor și a propune strategii de restructurare sau de exit care maximizează valoarea pentru acționari.",
+        "description3": "Experiența noastră în multiple industrii ne permite să identificăm rapid unde se pierde valoare și cum poate fi recuperată sau redirectionată spre oportunități mai profitabile.",
+        "included": [
+          "Audit complet al portofoliului de investiții",
+          "Analiza performanței și identificarea ineficiențelor",
+          "Strategii de restructurare a investițiilor",
+          "Planuri de exit și lichidare active",
+          "Optimizarea structurii de capital",
+          "Raportare și monitorizare continuă"
+        ]
+      },
+      {
+        "title": "Bugetare & Prognoze",
+        "description1": "Planificarea financiară riguroasă este cheia stabilității și creșterii sustenabile. Dezvoltăm sisteme de bugetare și prognoze financiare care transformă incertitudinea în avantaj competitiv.",
+        "description2": "Procesul nostru combină analiza datelor istorice cu modele predictive avansate, oferindu-ți o viziune clară asupra evoluției financiare a companiei. Adaptăm bugetele la dinamica pieței și la obiectivele strategice specifice.",
+        "description3": "Implementăm procese de bugetare care implică toate departamentele și asigurăm alinierea resurselor financiare cu prioritățile strategice ale organizației.",
+        "included": [
+          "Buget anual și planificare trimestrială",
+          "Modele de prognoză financiară (rolling forecast)",
+          "Analiza variațiilor buget vs. actual",
+          "Scenarii financiare (optimist, realist, pesimist)",
+          "Bugete departamentale și consolidare",
+          "Dashboard-uri de monitorizare în timp real"
+        ]
+      },
+      {
+        "title": "Raportare Financiară",
+        "description1": "Rapoartele financiare clare și precise sunt instrumentul esențial pentru luarea deciziilor informate. Oferim servicii complete de raportare financiară conform standardelor internaționale (IFRS, GAAP) și locale.",
+        "description2": "Transformăm datele financiare brute în rapoarte acționabile care evidențiază tendințele cheie, riscurile și oportunitățile. Prezentările noastre sunt adaptate pentru diferite audiențe: board, management, investitori sau autorități de reglementare.",
+        "description3": "Asigurăm conformitatea completă cu cerințele legale și standardele contabile aplicabile, reducând riscul și crescând credibilitatea companiei tale.",
+        "included": [
+          "Situații financiare conform IFRS/GAAP",
+          "Rapoarte de management lunar/trimestrial",
+          "Consolidare financiară pentru grupuri",
+          "Analiza indicatorilor financiari cheie",
+          "Rapoarte pentru investitori și stakeholderi",
+          "Pregătire pentru audit extern"
+        ]
+      },
+      {
+        "title": "Dezvoltare KPI",
+        "description1": "Indicatorii cheie de performanță bine definiți sunt coloana vertebrală a unei organizații orientate spre rezultate. Ajutăm companiile să identifice, să definească și să implementeze sistemele de KPI potrivite pentru industria și obiectivele lor.",
+        "description2": "Nu orice metric este un KPI relevant. Procesul nostru asigură că indicatorii selectați sunt cu adevărat reprezentativi pentru succesul afacerii și că sunt conectați direct la obiectivele strategice.",
+        "description3": "Implementăm sisteme de monitorizare și raportare care fac KPI-urile vizibile și acționabile pentru toți stakeholderii, de la management la echipele operaționale.",
+        "included": [
+          "Audit și evaluare KPI existenți",
+          "Workshop de aliniere strategică",
+          "Definirea KPI financiari și operaționali",
+          "Sistem de colectare și raportare date",
+          "Dashboard-uri interactive pentru management",
+          "Training pentru echipele interne"
+        ]
+      },
+      {
+        "title": "Consultanță Strategică",
+        "description1": "Deciziile strategice de business au consecințe pe termen lung. Echipa noastră de consultanți seniori aduce perspectivă externă valoroasă și experiență dovedită în navigarea provocărilor complexe de business.",
+        "description2": "De la expansiunea pe piețe noi la fuziuni și achiziții, de la transformarea digitală la restructurarea organizațională, oferim consiliere strategică bazată pe analize riguroase și pe cunoașterea profundă a contextului competitiv.",
+        "description3": "Parteneriatul strategic cu noi înseamnă acces la o echipă dedicată care îți înțelege afacerea și te sprijină în luarea celor mai importante decizii.",
+        "included": [
+          "Analiza strategică a poziției competitive",
+          "Planificare strategică pe 3-5 ani",
+          "Evaluare oportunități M&A și parteneriate",
+          "Due diligence financiar și strategic",
+          "Strategii de intrare pe piețe noi",
+          "Consiliere board și management executiv"
+        ]
+      }
+    ]
+  }
+}
